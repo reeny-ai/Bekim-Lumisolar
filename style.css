@@ -571,7 +571,6 @@ section {
   transform: scale(1.1);
 }
 .whatsapp-float::after {
-  content: "1";
   position: absolute;
   top: -5px;
   right: -5px;
@@ -1113,7 +1112,7 @@ font-size:30px;
     max-width: 800px;
     margin: 40px auto 0;
     color: #666;
-    font-size: 14px;
+    font-size: 20px;
     line-height: 1.6;
 }
 
