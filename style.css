@@ -666,6 +666,13 @@ section {
     color:var(--green);
     margin-right:10px;
 }
+.footer-social .social-icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 15px;
+    flex-wrap: nowrap;
+}
 
 .social-icon{
     display:inline-flex;
@@ -677,7 +684,6 @@ section {
     color:var(--green);
     border-radius:50%;
     text-decoration:none;
-    margin-right:10px;
     transition:.3s;
 }
 
