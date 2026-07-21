@@ -673,19 +673,19 @@ section {
     gap: 15px;
     flex-wrap: nowrap;
 }
-
 .social-icon{
     display:inline-flex;
     justify-content:center;
     align-items:center;
-    width:45px;
-    height:45px;
+    width: 40px;px;
+    height: 40px;px;
+    flex-shrink: 0;
     background:rgba(255,255,255,.1);
     color:var(--green);
     border-radius:50%;
     text-decoration:none;
     transition:.3s;
-   gap: 5px;
+    gap: 5px;
 }
 
 .social-icon:hover{
