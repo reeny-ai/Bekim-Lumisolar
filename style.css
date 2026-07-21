@@ -685,6 +685,7 @@ section {
     border-radius:50%;
     text-decoration:none;
     transition:.3s;
+   gap: 5px;
 }
 
 .social-icon:hover{
