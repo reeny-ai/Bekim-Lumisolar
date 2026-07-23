@@ -1185,7 +1185,7 @@ font-size:30px;
 /* HERO */
 
 .projects-hero {
-    background-image: url("images/hero1.jpg");
+    background-image: url("hero1.jpg");
     background-size: 100% 100%;
     background-position: center;
     background-repeat: no-repeat;
